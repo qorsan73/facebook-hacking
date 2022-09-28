@@ -23,8 +23,8 @@ $ python2 mostafa77.py
 
 2- Read the instructions on the termux interface
 
-3- After you set the iD of the group and the iD of your account
-Copy the text that will appear in a blue balloon
+3- After you set the iD of the group and the iD of your account Copy the text that will appear in a blue balloon
+
 4- Then send it to the group manager And enjoy watching
 
 # important note
@@ -33,3 +33,5 @@ I am not responsible for misuse or use to the detriment of the other party Just 
 * contact me on whatsapp +967737572399
 
 * contact me on telegram https://t.me/qorsantaez73
+
+* Thank you for using my repository ♥♥☺              
