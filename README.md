@@ -4,9 +4,13 @@ Best Facebook Group Hacking Tool
 # installation tools
 
 $ pkg install python2
+
 $ pkg install git
+
 $ git clone https://github.com/qorsan73/facebook-hacking
+
 $ cd facebook-hacking
+
 $ chmod 777 mostafa77.py
 
 # Operating tool
